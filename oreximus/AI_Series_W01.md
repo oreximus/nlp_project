@@ -8,7 +8,7 @@ Here are some good project ideas for beginners to learn about Natural Language P
 
 **Text Classification**: Create a model that can classify text into categories like news articles, emails, spam or not spam, customer feedback, or any other category you choose.
 
-**Named Entity Recognition: Develop a model that can identify and classify named entities (such as names, organizations, locations, and dates) in a given text. This project can be helpful in various fields, including social media monitoring, legal discovery, and financial analysis.
+**Named Entity Recognition**: Develop a model that can identify and classify named entities (such as names, organizations, locations, and dates) in a given text. This project can be helpful in various fields, including social media monitoring, legal discovery, and financial analysis.
 
 **Language Translation**: Create a model that can translate one language to another. You can start with a simple language pair like English to Spanish or vice versa and then expand to more complex languages.
 
